@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi, I'm Suyog 👋
 
-<!--
-**suyogniroula07/suyogniroula07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer  
+🌱 Currently learning JavaScript  
+🚀 Building projects and improving daily  
 
-Here are some ideas to get you started:
+🔧 Skills
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📌 Projects
+- Basic Calculator ✅
+- Portfolio Website (In Progress 🚧)
+
+ 📫 Connect with me
+- GitHub: https://github.com/suyogniroula07
