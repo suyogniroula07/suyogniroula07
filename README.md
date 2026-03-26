@@ -1,4 +1,4 @@
- Hi, I'm Suyog 👋
+ Hi, I'm Suyog
 
 💻 Beginner Web Developer  
 🌱 Currently learning JavaScript  
@@ -10,8 +10,10 @@
 - JavaScript
 
  📌 Projects
-- Basic Calculator ✅
-- Portfolio Website (In Progress 🚧)
+- Basic Calculator
+- Product Card
+- School ROutine
+- Portfolio Website (In Progress )
 
  📫 Connect with me
 - GitHub: https://github.com/suyogniroula07
