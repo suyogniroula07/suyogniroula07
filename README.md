@@ -11,4 +11,5 @@
 - Portfolio Website (In Progress )
 
  📫 Connect with me  
- 📧 Email: suyogniroula11@gmail.com
+ 📧 Email: suyogniroula11@gmail.com  
+ [![LinkedIn]: https://www.linkedin.com/in/suyog-niroula-94661a3ba/
