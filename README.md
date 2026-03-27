@@ -11,4 +11,4 @@
 - Portfolio Website (In Progress )
 
  📫 Connect with me
-- GitHub: https://github.com/suyogniroula07
+ 📧 Email:suyogniroula11@gmail.com
