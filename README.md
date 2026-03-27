@@ -12,4 +12,4 @@
 
  📫 Connect with me  
  📧 Email: suyogniroula11@gmail.com  
- [![LinkedIn]: https://www.linkedin.com/in/suyog-niroula-94661a3ba/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-niroula-94661a3ba/)
