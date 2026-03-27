@@ -4,11 +4,6 @@
 🌱 Currently learning JavaScript  
 🚀 Building projects and improving daily  
 
-🔧 Skills
-- HTML
-- CSS
-- JavaScript
-
  📌 Projects
 - Basic Calculator
 - Product Card
