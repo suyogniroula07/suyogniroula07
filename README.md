@@ -1,7 +1,7 @@
  Hi, I'm Suyog
 
 💻 Beginner Web Developer  
-🌱 Currently learning JavaScript  
+🌱 Currently learning 
 🚀 Building projects and improving daily  
 
  📌 Projects
