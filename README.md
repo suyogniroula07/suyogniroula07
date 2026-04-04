@@ -8,7 +8,7 @@
 - Basic Calculator
 - Product Card
 - School ROutine
-- Portfolio Website (In Progress )
+- Portfolio Website 
 
  📫 Connect with me  
 📧 **Email:** [suyogniroula11@gmail.com](mailto:suyogniroula11@gmail.com)  
